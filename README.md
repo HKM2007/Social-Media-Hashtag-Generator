@@ -24,7 +24,7 @@ This project uses Python (TensorFlow, Keras, scikit-learn, NLTK, Pandas, Tkinter
 - Tkinter – GUI design
 - Random module – fun fact generator
 
-**How To Run:**
+**How To Run**
 - Download the Dataset and keep it in the same folder
 - Clone this repository
 - Run Hashtag_Generator.ipynb
@@ -34,3 +34,8 @@ This project uses Python (TensorFlow, Keras, scikit-learn, NLTK, Pandas, Tkinter
 - Expand dataset for better hashtag accuracy
 - Save user predictions history
 - Add option to copy hashtags directly
+
+**Output :**
+
+ <img width="700" height="516" alt="Screenshot 2025-08-19 164021" src="https://github.com/user-attachments/assets/bf956bbd-1e5b-49c0-a53a-aeee87f0b2c3" />
+
